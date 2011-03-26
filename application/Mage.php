@@ -45,15 +45,7 @@ final class Mage {
     static public function register($key, $value) {
         self::$_registry[$key] = $value;
 
-        $this->method1()
-            ->method2()
-            ->method3();
-        if (true) {
-            $this->methodA()
-                ->methodB()
-                ->methodC();
-        }
-    }
+    } 
 
     /**
      * Get a registered object from the internal registry.
