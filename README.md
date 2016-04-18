@@ -2,6 +2,11 @@
 Automatically exported from code.google.com/p/the-mage (All credit where it is due, I simply only exported this to a github repo since Google code will soon close. -mb) Original Wiki Docs below:
 
 ------------------------------------------------------------------------
+This css stylesheet: custom.css, customizes the Magento Admin Panel
+
+This CSS style-sheet: custom.css, customizes the Magento Admin Panel. Enlarging the font-size makes the UI more suitable for larger screens. When spending much time making a web shop, I had the urge to make the Magento Admin Panel UI a bit prettier: better fonts, CSS-3 rounded corners to lose a bit of that “boxed-in-feel”, nicer colours, gradients and so on. And this I would like to share.
+
+------------------------------------------------------------------------
 
 <b>How to best integrate custom.css in Magento</b>
 
