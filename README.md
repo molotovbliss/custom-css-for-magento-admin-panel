@@ -1,5 +1,5 @@
 # the-mage
-Automatically exported from <a href="https://code.google.com/archive/p/the-mage/">code.google.com/p/the-mage</a> (All credit where it is due, I simply only exported this to a github repo since Google code will soon close. -mb) Original Wiki Docs below:
+Automatically exported from <a href="https://code.google.com/archive/p/custom-css-for-magento-admin-panel/">code.google.com/archive/p/custom-css-for-magento-admin-panel/</a> (All credit where it is due, I simply only exported this to a github repo since Google code will soon close. -mb) Original Wiki Docs below:
 
 ------------------------------------------------------------------------
 This css stylesheet: custom.css, customizes the Magento Admin Panel
